@@ -17,11 +17,11 @@ C'est une solution au [Défi Recipe page sur Frontend Mentor](https://www.fronte
 
 ### Contrainte
 
-Je me suis imposé comme défi personnel de réaliser ce projet sans recourir à l'utilisation de frameworks ou de bibliothèques externes.
+Réaliser ce projet sans recourir à l'utilisation de frameworks ni de bibliothèques externes.
 
 ### Résultat
 
-- Solution : [Visiter](https://yacou-keita.github.io/faq-accordion-main/)
+- Solution : [Visiter](https://yacou-keita.github.io/Recipe-page/)
 
 ### Technologies
 
